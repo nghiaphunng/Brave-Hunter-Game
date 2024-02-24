@@ -21,6 +21,7 @@ When your character collides with a zombie or dinosaur, the game screen will fre
     Your browser does not support the video tag.
   </video>
 </div>
+
 * As you progress in the game, the difficulty level will intensify. Zombies or dinosaurs will accelerate rapidly towards you, requiring you to employ a combination of effective jumping and sliding maneuvers to navigate through the challenges.
 <div style="text-align: center;">
   <video width="640" height="360" controls style="margin: auto;">
@@ -28,6 +29,7 @@ When your character collides with a zombie or dinosaur, the game screen will fre
     Your browser does not support the video tag.
   </video>
 </div>
+
 * The game features two backgrounds, with the second one designed to be simpler. This makes it easier for you to see obstacles, especially because the zombies or dinosaurs move really fast during this part of the game.
 <div style="text-align: center;">
   <video width="640" height="360" controls style="margin: auto;">
